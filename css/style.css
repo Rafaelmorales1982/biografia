@@ -50,6 +50,7 @@ h3 {
 p {
   /*espaçamento entre a linhas do texto*/
   line-height: 2;
+  color: #000000;
 }
 
 hr {
